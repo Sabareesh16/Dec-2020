@@ -1,2 +1,5 @@
-# Dec-2020
-My first Git Hub Page
+catalyst.notification.enableNotification().then(resp=>{
+catalyst.notification.messageHandler = msg => {
+                 //write your own action
+             }
+       });
